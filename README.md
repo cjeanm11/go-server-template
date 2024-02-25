@@ -46,11 +46,3 @@ make test
 ```bash
 make clean
 ```
-
-### All-in-One
-
-**All Build Commands with Clean Tests**: Combines clean up, testing, and building in one step.
-```bash
-make all build
-```
-
